@@ -1,0 +1,17 @@
+<html>
+<head> <title>Student Home Page</title></head>
+<body bgcolor=003366>
+<center>
+<br/><br/><br/>
+<h1><font color=FFFDFF>A Natural Language Interface To Database System</h1>
+<br/><br/><br/><br/><br/>
+<form action="/cgi-bin/exQuery.py" method="get">
+	<input type=text NAME="ser" class="hint" value="Enter Query Here....." size=50 
+	onfocus="if (this.className=='hint') { this.className = ''; this.value = ''; }"
+	onblur="if (this.value == '') { this.className = 'hint'; this.value = 'Enter Query Here.....'; }"/>
+<br/><br/><br/><br/><br/>
+<input type="submit" value="Get Result" />
+</form>
+</center>
+</body>
+</html>
