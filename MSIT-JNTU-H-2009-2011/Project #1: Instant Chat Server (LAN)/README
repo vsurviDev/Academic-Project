@@ -1,0 +1,10 @@
+A robust command-line chat application developed to function on a Local Area Network (LAN). It provides users with a simple interface to chat with friends and transfer files securely.
+
+Key Features:
+Real-time messaging: Communicate instantly with other users.
+File transfer: Send and receive files directly between clients.
+Client-Server Architecture: Built for stability and scalability.
+
+This project was built using C and incorporates essential data structures and advanced UNIX Network Programming concepts. The backend logic is a testament to the power of multi-threading and signals for handling multiple concurrent connections efficiently. TCP/IP protocols are used for all data transmission, ensuring reliable communication between the server and clients.
+
+Developed on Fedora Linux.
