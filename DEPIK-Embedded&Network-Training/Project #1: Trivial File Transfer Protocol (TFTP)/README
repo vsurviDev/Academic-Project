@@ -1,0 +1,10 @@
+TFTP Client Implementation
+This project is a robust implementation of a Trivial File Transfer Protocol (TFTP) client, developed in strict accordance with the packet rules outlined in the official RFC (Request for Comments). The client is designed to facilitate the seamless downloading of files from a remote host to a local target system.
+
+Technical Stack & Concepts
+Language: C
+Networking: UNIX Network Programming, TCP/IP
+System Programming: Multi-threading, Signals, Linux System-Level Concepts
+Data Structures: Optimized data structures for handling TFTP packets
+
+Platform: Fedora Linux
