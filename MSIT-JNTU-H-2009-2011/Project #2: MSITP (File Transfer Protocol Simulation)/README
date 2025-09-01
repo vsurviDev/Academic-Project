@@ -1,0 +1,10 @@
+File Transfer and Remote Command Protocol
+This project focuses on the design and implementation of a custom TCP-based protocol for remote server interaction. The system facilitates the secure uploading and downloading of files and allows for the execution of fundamental Linux CLI commands from a client.
+
+Technical Stack & Core Concepts
+Language: C
+Networking: UNIX Network Programming, TCP/IP
+System Programming: Multi-threading, Signals, Linux System-Level Concepts
+Data Structures: Custom data structures optimized for protocol handling
+
+Platform: Fedora Linux
