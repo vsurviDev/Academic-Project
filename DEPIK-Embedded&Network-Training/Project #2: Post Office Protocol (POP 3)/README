@@ -1,0 +1,10 @@
+POP3 Client Implementation
+This project is a functional implementation of a Post Office Protocol 3 (POP3) client, developed in compliance with the packet rules detailed in its official RFC. The client is designed to retrieve emails from a remote server and display the key information directly on the client console.
+
+Technical Stack & Concepts
+Language: C
+Networking: UNIX Network Programming, TCP/IP
+System Programming: Multi-threading, Signals, Linux System-Level Concepts
+Data Structures: Optimized data structures for handling POP3 packets
+
+Platform: Fedora Linux
