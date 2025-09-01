@@ -1,0 +1,18 @@
+IBN:ICICI Bank Ltd
+INFY:Infosys Technologies Ltd
+WIT:Wipro Ltd
+DTLK:Datalink Corp
+GOOG:Google Inc
+HNZ:HJ Heinz Co
+EBAY:eBay Inc
+FDX:FedEx Corporation
+LNCR:Lincare Holdings Inc
+LEXG:Lexicon Genetics Inc
+JUPM:Jupitermedia Corp
+KNE.V:KANE BIOTECH INC
+NSTC:Ness Technologies Inc
+MENT:Mentor Grap1hics Corp
+ORCL:Oracle Corp
+PLXT:PLX Technology Inc
+RS:Reliance Steel & Aluminum Co
+SPEC:Spectrum Control Inc

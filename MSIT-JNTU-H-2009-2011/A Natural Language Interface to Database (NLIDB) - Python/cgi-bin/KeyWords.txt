@@ -1,0 +1,27 @@
+marketcap:market capital:market cap:capital
+e_value:enterprise value:e value:enterprise
+ret_on_assets:return on assets:assets:return:return assets
+tot_cash:total cash
+op_cash:operating cash flow:cash flow:operating cash:op cash
+lev_free_cf:levered free cash flow:levered free:free cash:levered cash:levered cash flow
+tot_debt:total debt:debt
+curr_ratio:current ratio:ratio:current
+gross_profit:gross proft:profit:gross
+prof_margin:profit margin:margin:porf margin:margin profit
+last_trade:last trade:trade last:last
+trade_time:trade time:time
+prev_close:previous close:prev close:close
+high_paid_emp:high paid:high paid emp:high paid employee:highest paid emp:highest paid employee:highpaid
+executive_list:executives:executive:executive list
+high_pay:high payment:high pay:highest pay:highpay:pay
+name:company name:company:name
+Address:address:addr:add
+phonenum:phone:ph:phone number:phone no
+faxnum:fax:fax num:fax no:fax number
+website:site:website:url:link:web:web page
+Index_mem:member ship:ship:index:index member:index membership:member
+sector:sect:sector
+industry:industry:indus:organization:org
+full_time:full time:full:full time emp:full time employee
+news:news:head lines
+bus_summ:business sum:business summary:summary
