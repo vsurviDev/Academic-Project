@@ -1,0 +1,36 @@
+### A Natural Language Interface to Databases (NLIDB)
+
+This is a Python-based project that lets you talk to a database using everyday language instead of complicated SQL queries. It was built for an **Advanced Programming II** course and is a great example of **Object-Oriented Programming (OOP)**, **web interfaces**, and **socket programming**.
+
+---
+
+### How It Works
+
+Imagine you want to know "What are the names of all the students?". This program does the following:
+
+1.  **Takes your question**: It receives your sentence from a simple web page.
+2.  **Breaks it down**: It figures out what you're asking for, ignoring small words like "the" or "a."
+3.  **Writes a query**: It automatically translates your question into a SQL query, like `SELECT student_name FROM students;`.
+4.  **Gets the answer**: It runs that query on the database and shows you the results.
+
+This project is built with a clean, well-organized structure using Python classes, making it easy to understand and work with.
+
+---
+
+### Project Structure
+
+The system is split into two parts:
+
+1.  **The Server**: This is the core of the program. It's a server that listens for your questions, processes them, and prepares the answers. Running it this way means it's always ready to go and can handle many questions without starting from scratch each time.
+
+2.  **The Website**: A simple web page built with **Python CGI** that acts as the user interface. You type your question here, and the website sends it to the server. The server then sends the answer back to the website to display to you.
+
+---
+
+### Technologies Used
+
+* **Python**: The main programming language.
+* **Object-Oriented Programming (OOP)**: The system is designed with a clear class structure for better organization.
+* **CGI**: Used to create the simple web interface.
+* **Sockets**: The way the website talks to the server.
+* **Databases**: The project connects to a database to run queries.
