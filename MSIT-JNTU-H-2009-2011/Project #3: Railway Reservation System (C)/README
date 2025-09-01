@@ -1,0 +1,37 @@
+# Railway Reservation System (RRS)
+
+This is a **C program** for a simple Railway Reservation System. It's a command-line tool that helps you manage and book train tickets. The program is designed for two types of users: **Administrators** and **Regular Users**.
+
+---
+
+## Features
+
+### For the Administrator 👮
+The admin has special access to manage the system.
+
+* **Add New Users**: Create accounts for new users.
+* **Add Trains**: Add new trains with details like names, routes, and seat capacity.
+* **Schedule Trips**: Create train schedules for specific dates.
+* **View Data**: See a list of all users and trains.
+
+### For the User 🧑‍💻
+Users can find and book tickets for their travels.
+
+* **Search Trains**: Look up trains using different search options like source, destination, and date.
+* **View Schedules**: Check the full schedule for any train.
+* **Check Availability**: See how many seats are left in different classes (like SL and AC).
+* **Book/Cancel Tickets**: Reserve a seat or cancel a booking.
+
+---
+
+## How It Works
+
+The program stores all its data in **binary files** within a main folder called `RRS`. This way, all your user accounts, train details, and booking history are saved even after you close the program.
+
+The main menu will ask for a username and password. The system will then show you the options you can use based on whether you're an admin or a regular user.
+
+## Getting Started
+
+1.  **Compile the code**: Use a C compiler (like GCC) to build the program.
+2.  **Run the program**: The program will create the necessary folders and files to store data when you run it for the first time.
+3.  **Log in**: Use your credentials to log in and start using the system.
