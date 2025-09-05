@@ -1,0 +1,25 @@
+# 🧑‍💼 Employee Management System (C-based Client-Server)
+
+This is a basic **Client-Server Employee Management System** written in **C**, using a custom message-based communication model with **hashing** for efficient storage and retrieval of employee data.
+
+---
+
+## 📋 Features
+
+* Add new employee records
+* Delete existing employee records
+* Get individual employee details by ID
+* Modify employee data (partially or completely)
+* Display all employee records
+* Uses **hash tables** for efficient storage
+* Simulates **client-server** message passing
+
+
+## ⚙️ Requirements
+
+* GCC Compiler (Linux or Windows)
+* Basic knowledge of C programming
+* Terminal for compilation and execution
+
+---
+
